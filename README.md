@@ -1,4 +1,4 @@
-## Project Title: An Analysis of Delhi NCR Air Pollution Data Using Remote Sensing
+## An Analysis of Delhi NCR Air Pollution Data Using Remote Sensing
 
 ## Research Questions:
 
